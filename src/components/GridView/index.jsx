@@ -137,7 +137,7 @@ if (nextToken !== '' && nextToken !== null && nextToken !== undefined) {
 	      <h1>Video on Demand PoC</h1>
 	 </Row>
 	 <Row>
-	      <h2>Octank Content</h2>
+	      <h2>Octank Video Content</h2>
 	 </Row>
 
 	    <Row>

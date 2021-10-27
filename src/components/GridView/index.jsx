@@ -133,7 +133,14 @@ if (nextToken !== '' && nextToken !== null && nextToken !== undefined) {
         {this.overlayMovie()}
         <BottomScrollListener onBottom={this.handleOnDocumentBottom} />
         <Grid fluid>
-          <Row>
+         <Row>
+	      <h1>Video on Demand PoC</h1>
+	 </Row>
+	 <Row>
+	      <h2>Octank Content</h2>
+	 </Row>
+
+	    <Row>
             {itemHTML}
           </Row>
         </Grid>

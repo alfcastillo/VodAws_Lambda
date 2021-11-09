@@ -134,6 +134,12 @@ if (nextToken !== '' && nextToken !== null && nextToken !== undefined) {
         <BottomScrollListener onBottom={this.handleOnDocumentBottom} />
         <Grid fluid>
           <Row>
+            <h1>Video on Demand PoC</h1>
+          </Row>
+          <Row>
+            <h2>Octank Amplify Hosting</h2>
+          </Row>
+          <Row>
             {itemHTML}
           </Row>
         </Grid>
